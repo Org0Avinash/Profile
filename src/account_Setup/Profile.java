@@ -6,7 +6,7 @@ public class Profile {
 	public static void main(String[] args) {
 		try (Scanner S = new Scanner(System.in)) {
 			System.out.println("Profile");
-			System.out.println("---");
+			System.out.println("----");
 			System.out.println("Enter The  ID :");
 			int id = S.nextInt();
 
